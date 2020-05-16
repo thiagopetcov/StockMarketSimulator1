@@ -4,7 +4,6 @@ public class Company {
 		private int id;
 		private int shares;
 		private int price;
-		private int budget;
 		
 		//Getters and Setters 
 		public int getId() {
@@ -31,19 +30,7 @@ public class Company {
 			this.price = price;
 		}
 
-		public int getBudget() {
-			return budget;
-		}
-		
-		public void setBudget(int budget){
-			this.budget;
-			
-		}
-
-		public void setBudget(int budget2) {
-			// TODO Auto-generated method stub
-			
-		}
-
 	}
+
+	
 
