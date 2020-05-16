@@ -8,3 +8,4 @@ public class Program {
 		//Investor array it will store 100 investors 
 		ArrayList<Investor> investors = new ArrayList<>();
 	
+		//test array
