@@ -1,6 +1,6 @@
 public class Company {
 	
-		//Company Attributes 
+		//The Company Attributes 
 		private int id;
 		private int shares;
 		private int price;

@@ -1,6 +1,6 @@
 public class Investor {
 
-	//Investor Attributes 
+	//The Investor Attributes 
 		private int id;
 		private int budget;
 		

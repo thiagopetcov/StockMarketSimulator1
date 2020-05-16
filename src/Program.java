@@ -40,8 +40,6 @@ public class Program {
 			System.out.println("Investor ID: " + investor.getId() + " budget: " + investor.getBudget());
 		}
 		
-		
-		// System.out.println("RANDOM: " + random.nextInt(100));
 	}
 
 }
